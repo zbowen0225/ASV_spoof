@@ -1,4 +1,4 @@
-# Template for Speaker Identification
+# Template for Spoof Detection
   
 This folder provides a working, well-documented example for training
 a synthesized speech detection model from scratch, based on a few hours of
